@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Page Title</title>
+
+</head>
+
+<body>
+
+<h1><center>Jaden Francois</h1>
+
+<p><center> My name is Jaden Francois and I am a rising sophomore that goes to school in Brooklyn,NY. Something that i like to do for fun is play video games!!! My favorite video games are Fortnite,and Super Smash Bros. Ultimate.(You can play me in either one of these games but you will probably lose.)</p>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-color: #dc0000;
+}
+</style>
+</head>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h2>Hobbies!!</h2>
+<img src=H2x1_NSwitch_SuperSmashBrosUltimate_02_image1600w width="900" height="300">
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<button onclick="myFunction()">Click me</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "https://www.google.com/search?q=kirby&source=lnms&tbm=isch&sa=X&ved=0ahUKEwinjeCRgrrjAhXNt1kKHbAPD3cQ_AUIECgB&biw=918&bih=894#imgrc=y1xgHBnRBiK1sM:";
+}
+</script>
